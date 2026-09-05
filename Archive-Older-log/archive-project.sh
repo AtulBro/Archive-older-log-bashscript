@@ -6,7 +6,7 @@
 
 #Variables
 
-BASE="/root/Documents/devops-learning/shell-scripting/projects/folder"
+BASE="Give Path"
 DAYS=10
 DEPTH=1 #File will only search for that folder only will not check other folder
 RUN=0
